@@ -32,7 +32,7 @@ java -cp build InteractiveAnimation
 
 ## スクリーンショット
 
-| 呼び出し前 | 呼び出し中 |
+| 呼び出し | 呼び出し中 |
 | --- | --- |
 | ![screenshot1](docs/screenshots/screenshot-1.png) | ![screenshot2](docs/screenshots/screenshot-2.png) |
 
