@@ -1,0 +1,10 @@
+# build output
+build/
+dist/
+*.class
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
